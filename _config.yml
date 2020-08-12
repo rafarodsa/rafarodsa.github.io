@@ -1,6 +1,6 @@
 title: Rafael Rodriguez-Sanchez
 url: "https://rafarodsa.github.io"
-baseurl: "/"
+baseurl: "/researcher"
 
 markdown: kramdown
 #ins_logo: "./bits-logo.png"
@@ -17,7 +17,7 @@ sass:
 
 nav:
  - name: "About"
-   link: "/"
+   link: "/researcher"
  - name: "Resume"
    link: "resume.pdf"
 # - name: "Contact"
