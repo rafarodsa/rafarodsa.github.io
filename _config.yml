@@ -1,0 +1,24 @@
+title: Rafael Rodriguez-Sanchez
+url: "https://rafarodsa.github.io"
+baseurl: "/researcher"
+
+markdown: kramdown
+#ins_logo: "./bits-logo.png"
+
+tracking_id: #
+
+footer: yes
+footer_url: "https://github.com/rafarodsa"
+footer_text: "Page design based on https://ankitsultana.com"
+
+sass:
+    style: compressed
+    sass_dir: _sass
+
+nav:
+ - name: "About"
+   link: "/researcher/"
+ - name: "Resume"
+   link: "resume.pdf"
+# - name: "Contact"
+#   link: "contact"
