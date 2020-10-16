@@ -18,7 +18,7 @@ I am generally interested in Artificial Intelligence (AI), specifically, in Embo
 
 **Conferences**
 
-- [A. Tirinzoni](https://andreatirinzoni.github.io)\*, **R. Rodriguez-Sanchez**\*, [M. Restelli](https://restelli.faculty.polimi.it/MyWebSite/index.shtml). *Transfer of Value Functions via Variational Methods*. Advances in Neural Information Processing Systems (NeurIPS), Montreal, 2018. [[paper](/tirinzoni2018transfer.pdf)][[poster](/nips2018_poster_transfer.pdf)]
+- [A. Tirinzoni](https://andreatirinzoni.github.io)\*, **R. Rodriguez-Sanchez**\*, [M. Restelli](https://restelli.faculty.polimi.it/MyWebSite/index.shtml). *Transfer of Value Functions via Variational Methods*. Advances in Neural Information Processing Systems (NeurIPS), Montreal, 2018. [[paper](/tirinzoni2018transfer.pdf)][[poster](/nips2018_poster_transfer.pdf)][[code](https://github.com/AndreaTirinzoni/variational-transfer-rl)]
 
 **Workshops**
 
