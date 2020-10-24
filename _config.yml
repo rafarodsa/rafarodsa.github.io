@@ -1,6 +1,8 @@
 title: Rafael Rodriguez-Sanchez
 url: "https://rafarodsa.github.io"
 baseurl: "/"
+desc: Ph.D. Student in CS at Brown University 
+author: Rafael Rodriguez Sanchez
 
 markdown: kramdown
 #ins_logo: "./bits-logo.png"
