@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## About Me
+# About Me
 
 <img class="profile-picture" src="profile.jpg">
 
@@ -11,17 +11,17 @@ I am a (second-year) Ph.D. Student in [Computer Science at Brown University](htt
 **Contact** rrs *at* brown *dot* edu --- **[Google Scholar](https://scholar.google.com/citations?user=ONxoqRUAAAAJ&hl=es)** --- **[LinkedIn](https://linkedin.com/in/rafarodsa)**
 --- **[Github](https://github.com/rafarodsa)**
 
-## Research Interests
+# Research Interests
 
 I am generally interested in Artificial Intelligence (AI), specifically, in Embodied Intelligence. Currently, I am interested in Reinforcement Learning (RL) and its intersection with other AI areas, such as Natural Language Understanding, in order to design embodied agents that are able to exploit effectively prior knowledge and supervision from different sources.
 
-## Publications
+# Publications
 
-**Conferences**
+##**Conferences**
 
 - [A. Tirinzoni](https://andreatirinzoni.github.io)\*, **R. Rodriguez-Sanchez**\*, [M. Restelli](https://restelli.faculty.polimi.it/MyWebSite/index.shtml). *Transfer of Value Functions via Variational Methods*. Advances in Neural Information Processing Systems (NeurIPS), Montreal, 2018. [[paper](/tirinzoni2018transfer.pdf)][[poster](/nips2018_poster_transfer.pdf)][[code](https://github.com/AndreaTirinzoni/variational-transfer-rl)]
 
-**Workshops**
+##**Workshops**
 
 - **R. Rodriguez-Sanchez**\*, [R. Patel](http://cs.brown.edu/people/rpatel59/)\*, [G. Konidaris](http://cs.brown.edu/people/gdk/). *On the Relationship Between Structure in Natural Language and Models of Sequential Decision Processes*. Language and Reinforcement Learning ([LaReL](https://larel-ws.github.io/accepted-papers/)) Workshop at the International Conference in Machine Learning (ICML) 2020. 
 [[paper](/on_the_relationship_between_structure_in_natural_language_and_models_of_sequential_decision_processes.pdf)] [[video](https://www.youtube.com/watch?v=a3JJo_cvzpE&feature=emb_logo)]
