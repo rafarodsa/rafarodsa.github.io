@@ -7,14 +7,17 @@ title: Rafael Rodriguez Sanchez
 
 <img class="profile-picture" src="profile.jpg">
 
-I am a fourth-year Ph.D. candidate in [Computer Science at Brown University](https://cs.brown.edu) in the [Intelligent Robot Lab](http://irl.cs.brown.edu) advised by [George Konidaris](http://cs.brown.edu/people/gdk/). Previously, I got a Bachelor's degree in Electronic Engineering from [Universidad Simon Bolivar](http://www.usb.ve), Caracas, Venezuela and a Master's degree in Computer Science from [Politecnico di Milano](https://polimi.it) where I was fortunate to work with [Marcello Restelli](https://restelli.faculty.polimi.it/MyWebSite/index.shtml) and [Nicola Gatti](https://www.gametheory.polimi.it/nicola-gatti.html) at the [AIRLAB](http://airlab.deib.polimi.it).
+I am a fourth-year Ph.D. candidate in [Computer Science at Brown University](https://cs.brown.edu) in the [Intelligent Robot Lab](http://irl.cs.brown.edu) advised by [George Konidaris](http://cs.brown.edu/people/gdk/). Previously, I got a Bachelor's degree in Electronic Engineering from [Universidad Simon Bolivar](http://www.usb.ve), Caracas, Venezuela and a Master's degree in Computer Science from [Politecnico di Milano](https://polimi.it) where I was fortunate to work with [Marcello Restelli](https://restelli.faculty.polimi.it/MyWebSite/index.shtml) and [Nicola Gatti](https://www.gametheory.polimi.it/nicola-gatti.html) at the [AIRLAB](http://airlab.deib.polimi.it). 
+
 
 **Contact** rrs *at* brown *dot* edu --- **[Google Scholar](https://scholar.google.com/citations?user=ONxoqRUAAAAJ&hl=es)** --- **[LinkedIn](https://linkedin.com/in/rafarodsa)**
 --- **[Github](https://github.com/rafarodsa)**
 
 # Research Interests
 
-I am generally interested in Artificial Intelligence (AI), specifically, in Embodied Intelligence. I'm currently working in learning state abstractions for Reinforcement Learning and, more generally, MDPs. Furthermore, I've worked at the intersection of Natural Language and RL, investigating how to incorporate prior knowledge in decision processes through languages.
+I am deeply interested in enabling decision-making agents to learn reusable knowledge. To that end, currently, I'm working on learning state abstractions for Reinforcement Learning and, more generally, MDPs, that allow agents to learn provably sound, abstract and simpler world models that the agent can use to generate plans for different tasks.
+
+Furthermore, I've also worked at the intersection of Natural Language and RL, investigating how to communicate prior knowledge to RL agents through languages. From this endeavor, RLang, a formal language for RL, was born. This language is unambiguous and designed precisely for RL. RLang allows to communicate partial task-specific knowledge to RL agents in order to avoid tabula rasa learning. The RLang framework, also, opens up many exciting research questions in RL algorithm design, natural language understanding and symbol grounding. 
 
 # Publications
 
