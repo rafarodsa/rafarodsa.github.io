@@ -18,9 +18,9 @@ I am generally interested in Artificial Intelligence (AI), specifically, in Embo
 
 # Publications
 
-# Preprints
+## Preprints
 
-- **R. Rodriguez-Sanchez**, B. Spiegel, J. Wang, [R. Patel](http://cs.brown.edu/people/rpatel59/), S. Tellex, G. Konidaris. *RLang: A Declarative Language for Expressing Prior Knowledge for Reinforcement Learning*. arXiv Preprint. [[Paper](https://arxiv.org/abs/2208.06448)] [[RLang.ai](https://rlang.ai)] [[RLang package](https://github.com/brownirl/rlang)] 
+- **R. Rodriguez-Sanchez**, B. Spiegel, J. Wang, [R. Patel](http://cs.brown.edu/people/rpatel59/), S. Tellex, G. Konidaris. *RLang: A Declarative Language for Expressing Prior Knowledge for Reinforcement Learning*. arXiv Preprint. [[paper](https://arxiv.org/abs/2208.06448)] [[RLang.ai](https://rlang.ai)] [[RLang package](https://github.com/brownirl/rlang)] 
 
 
 ## **Conferences**
