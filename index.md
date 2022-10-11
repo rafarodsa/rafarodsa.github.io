@@ -7,16 +7,21 @@ title: Rafael Rodriguez Sanchez
 
 <img class="profile-picture" src="profile.jpg">
 
-I am a (third-year) Ph.D. candidate in [Computer Science at Brown University](https://cs.brown.edu) in the [Intelligent Robot Lab](http://irl.cs.brown.edu) advised by [George Konidaris](http://cs.brown.edu/people/gdk/). Previously, I got a Bachelor's degree in Electronic Engineering from [Universidad Simon Bolivar](http://www.usb.ve), Caracas, Venezuela and a Master's degree in Computer Science from [Politecnico di Milano](https://polimi.it) where I was fortunate to work with [Marcello Restelli](https://restelli.faculty.polimi.it/MyWebSite/index.shtml) and [Nicola Gatti](https://www.gametheory.polimi.it/nicola-gatti.html) at the [AIRLAB](http://airlab.deib.polimi.it).
+I am a fourth-year Ph.D. candidate in [Computer Science at Brown University](https://cs.brown.edu) in the [Intelligent Robot Lab](http://irl.cs.brown.edu) advised by [George Konidaris](http://cs.brown.edu/people/gdk/). Previously, I got a Bachelor's degree in Electronic Engineering from [Universidad Simon Bolivar](http://www.usb.ve), Caracas, Venezuela and a Master's degree in Computer Science from [Politecnico di Milano](https://polimi.it) where I was fortunate to work with [Marcello Restelli](https://restelli.faculty.polimi.it/MyWebSite/index.shtml) and [Nicola Gatti](https://www.gametheory.polimi.it/nicola-gatti.html) at the [AIRLAB](http://airlab.deib.polimi.it).
 
 **Contact** rrs *at* brown *dot* edu --- **[Google Scholar](https://scholar.google.com/citations?user=ONxoqRUAAAAJ&hl=es)** --- **[LinkedIn](https://linkedin.com/in/rafarodsa)**
 --- **[Github](https://github.com/rafarodsa)**
 
 # Research Interests
 
-I am generally interested in Artificial Intelligence (AI), specifically, in Embodied Intelligence. Currently, I am interested in Reinforcement Learning (RL) and its intersection with other AI areas, such as Natural Language Understanding, in order to design embodied agents that are able to exploit effectively prior knowledge and supervision from different sources.
+I am generally interested in Artificial Intelligence (AI), specifically, in Embodied Intelligence. I'm currently working in learning state abstractions for Reinforcement Learning and, more generally, MDPs. Furthermore, I've worked at the intersection of Natural Language and RL, investigating how to incorporate prior knowledge in decision processes through languages.
 
 # Publications
+
+# Preprints
+
+- **R. Rodriguez-Sanchez**, B. Spiegel, J. Wang, [R. Patel](http://cs.brown.edu/people/rpatel59/), S. Tellex, G. Konidaris. *RLang: A Declarative Language for Expressing Prior Knowledge for Reinforcement Learning*. arXiv Preprint. [[Paper](https://arxiv.org/abs/2208.06448)] [[RLang.ai](https://rlang.ai)] [[RLang package](https://github.com/brownirl/rlang)] 
+
 
 ## **Conferences**
 
@@ -25,7 +30,7 @@ I am generally interested in Artificial Intelligence (AI), specifically, in Embo
 ## **Workshops**
 
 - **R. Rodriguez-Sanchez**, B. Spiegel, J. Wang, R. Patel, S. Tellex, G. Konidaris. *RLang: A Declarative Language for Expressing Prior Knowledge for Reinforcement Learning*. Multidisciplinary Conference on Reinforcement Learning and Decision Making (RLDM) 2022. 
-[[Paper](/rlang_rldm2022.pdf)] [[Poster]]
+[[Paper](/rlang_rldm2022.pdf)] [[Poster](/rlang_rldm_poster.pdf)]
 
 - **R. Rodriguez-Sanchez**\*, [R. Patel](http://cs.brown.edu/people/rpatel59/)\*, [G. Konidaris](http://cs.brown.edu/people/gdk/). *On the Relationship Between Structure in Natural Language and Models of Sequential Decision Processes*. Language and Reinforcement Learning ([LaReL](https://larel-ws.github.io/accepted-papers/)) Workshop at the International Conference in Machine Learning (ICML) 2020. 
 [[paper](/on_the_relationship_between_structure_in_natural_language_and_models_of_sequential_decision_processes.pdf)] [[video](https://www.youtube.com/watch?v=a3JJo_cvzpE&feature=emb_logo)]
