@@ -56,8 +56,6 @@
     .paper-picture {
         max-height: $image-size-height;
         max-width: $image-size-width;
-        width: 20%;
-        height: auto;
         position: relative;
         margin: -50px 0 0 15px;
         float: right;
@@ -70,6 +68,8 @@
         @media (max-width: $small-width) {
             img {
                 margin-top: -5px;
+                width: 20%;
+                height: auto;
             }
         }
     }
