@@ -9,7 +9,7 @@ title: Rafael Rodriguez Sanchez
 
 I am a fourth-year Ph.D. candidate in [Computer Science at Brown University](https://cs.brown.edu) in the [Intelligent Robot Lab](http://irl.cs.brown.edu) advised by [George Konidaris](http://cs.brown.edu/people/gdk/). Previously, I got a Bachelor's degree in Electronic Engineering from [Universidad Simon Bolivar](http://www.usb.ve), Caracas, Venezuela and a Master's degree in Computer Science from [Politecnico di Milano](https://polimi.it) where I was fortunate to work with [Marcello Restelli](https://restelli.faculty.polimi.it/MyWebSite/index.shtml) and [Nicola Gatti](https://www.gametheory.polimi.it/nicola-gatti.html) at the [AIRLAB](http://airlab.deib.polimi.it). 
 
-Moreover, in Summer 2021, I interned at Amazon Alexa and worked in the Dialog Research group with Maryma Fazel-Zarandi on applications of LLMs (Large Language Models) and RL in Task-oriented Dialog Systems.
+Moreover, in Summer 2021, I interned at Amazon Alexa and worked in the Dialog Research group with Maryam Fazel-Zarandi on applications of LLMs (Large Language Models) and RL in Task-oriented Dialog Systems.
 
 
 **Contact** rrs *at* brown *dot* edu --- **[Google Scholar](https://scholar.google.com/citations?user=ONxoqRUAAAAJ&hl=es)** --- **[LinkedIn](https://linkedin.com/in/rafarodsa)**
@@ -25,8 +25,8 @@ Furthermore, I've also worked at the intersection of Natural Language and RL, in
 
 ## Preprints
 
-
-- <img class="paper-picture" src="/rlang_logo.png"> **R. Rodriguez-Sanchez**, B. Spiegel, J. Wang, [R. Patel](http://cs.brown.edu/people/rpatel59/), S. Tellex, G. Konidaris. *RLang: A Declarative Language for Expressing Prior Knowledge for Reinforcement Learning*. arXiv Preprint 2022. [[paper](https://arxiv.org/abs/2208.06448)] [[RLang.ai](http://rlang.ai)] [[RLang package](https://github.com/brownirl/rlang)] 
+<img class="paper-picture" src="/rlang_logo.png">
+- **R. Rodriguez-Sanchez**, B. Spiegel, J. Wang, [R. Patel](http://cs.brown.edu/people/rpatel59/), S. Tellex, G. Konidaris. *RLang: A Declarative Language for Expressing Prior Knowledge for Reinforcement Learning*. arXiv Preprint 2022. [[paper](https://arxiv.org/abs/2208.06448)] [[RLang.ai](http://rlang.ai)] [[RLang package](https://github.com/brownirl/rlang)] 
 
 
 ## **Conferences**
