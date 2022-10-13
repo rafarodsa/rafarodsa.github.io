@@ -57,7 +57,7 @@
         max-height: $image-size-height;
         max-width: $image-size-width;
         position: relative;
-        margin: 0px 10px 0 0px;
+        margin: 0px 20px 0 0px;
         float: left;
         top: 10px;
         border-radius: 0%;
@@ -68,7 +68,7 @@
         @media (max-width: $small-width) {
             img {
                 margin-top: 0px;
-                width: 18%;
+                width: 15%;
                 height: auto;
             }
         }
