@@ -23,7 +23,7 @@ Furthermore, I've also worked at the intersection of Natural Language and RL, in
 
 # Publications
 
-## ** Preprints**
+## **Preprints**
 
 - **R. Rodriguez-Sanchez**, G. Konidaris. *Learning Abstract World Models for Value-preserving Planning with Options*. Currently under submission. [<a href="#" onclick="toggleExpand()">Abstract</a>]
 
