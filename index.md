@@ -25,9 +25,7 @@ Furthermore, I've also worked at the intersection of Natural Language and RL, in
 
 ## ** Preprints**
 
-- **R. Rodriguez-Sanchez**, G. Konidaris. *Learning Abstract World Models for Value-preserving Planning with Options*. Currently under submission. 
-
-<a href="#" onclick="toggleExpand()">Abstract</a>
+- **R. Rodriguez-Sanchez**, G. Konidaris. *Learning Abstract World Models for Value-preserving Planning with Options*. Currently under submission. [<a href="#" onclick="toggleExpand()">Abstract</a>]
 
 <div class="expandable-content" id="expandable-content" style="display: none;">
     General-purpose agents require fine-grained controls and rich sensory inputs to perform a wide range of tasks. However, this complexity often leads to intractable decision-making. Traditionally, agents are provided with task-specific action  and observation spaces to mitigate this challenge, but this reduces autonomy. 
