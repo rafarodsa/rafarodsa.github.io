@@ -7,7 +7,7 @@ title: Rafael Rodriguez Sanchez
 
 <img class="profile-picture" src="profile.jpg">
 
-I am a fourth-year Ph.D. candidate in [Computer Science at Brown University](https://cs.brown.edu) in the [Intelligent Robot Lab](http://irl.cs.brown.edu) advised by [George Konidaris](http://cs.brown.edu/people/gdk/). Previously, I got a Bachelor's degree in Electronic Engineering from [Universidad Simon Bolivar](http://www.usb.ve), Caracas, Venezuela and a Master's degree in Computer Science from [Politecnico di Milano](https://polimi.it) where I was fortunate to work with [Marcello Restelli](https://restelli.faculty.polimi.it/MyWebSite/index.shtml) and [Nicola Gatti](https://gatti.faculty.polimi.it) at the [AIRLAB](http://airlab.deib.polimi.it). 
+I am a fifth-year Ph.D. student in [Computer Science at Brown University](https://cs.brown.edu) in the [Intelligent Robot Lab](http://irl.cs.brown.edu) advised by [George Konidaris](http://cs.brown.edu/people/gdk/). Previously, I got a Bachelor's degree in Electronic Engineering from [Universidad Simon Bolivar](http://www.usb.ve), Caracas, Venezuela and a Master's degree in Computer Science from [Politecnico di Milano](https://polimi.it) where I was fortunate to work with [Marcello Restelli](https://restelli.faculty.polimi.it/MyWebSite/index.shtml) and [Nicola Gatti](https://gatti.faculty.polimi.it) at the [AIRLAB](http://airlab.deib.polimi.it). 
 
 Moreover, in Summer 2021, I interned at Amazon Alexa and worked in the Dialogue Research group with Maryam Fazel-Zarandi on applications of LLMs (Large Language Models) and RL in Task-oriented Dialog Systems.
 
