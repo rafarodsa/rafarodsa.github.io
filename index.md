@@ -25,7 +25,7 @@ Furthermore, I've also worked at the intersection of Natural Language and RL, in
 
 ## **Preprints**
 
-- **R. Rodriguez-Sanchez**, G. Konidaris. *Learning Abstract World Models for Value-preserving Planning with Options*. Currently under submission 2023. [<a href="#" onclick="toggleExpand()">Abstract</a>]
+- **R. Rodriguez-Sanchez**, G. Konidaris. *Learning Abstract World Models for Value-preserving Planning with Options*. Currently under submission 2023. **Accepted to [Generalization in Planning Workshop](https://aair-lab.github.io/genplan23/) & [LatinX Workshop](https://www.latinxinai.org/neurips-2023#:~:text=LatinX%20in%20AI%20Research%20at,Information%20Processing%20Systems%20(NeurIPS).) at NeurIPS 2023! See you in New Orleans!** [<a href="#" onclick="toggleExpand()">Abstract</a>]
 
 <div class="expandable-content" id="expandable-content" style="display: none;">
     General-purpose agents require fine-grained controls and rich sensory inputs to perform a wide range of tasks. However, this complexity often leads to intractable decision-making. Traditionally, agents are provided with task-specific action  and observation spaces to mitigate this challenge, but this reduces autonomy. 
