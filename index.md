@@ -23,9 +23,16 @@ Furthermore, I've also worked at the intersection of Natural Language and RL, in
 
 # Publications
 
-## **Preprints**
+## **Conferences**
+<img class="paper-picture" src="/rlang_logo.png">
+- **R. Rodriguez-Sanchez**\*, B. Spiegel\*, J. Wang, R. Patel, S. Tellex, G. Konidaris. *RLang: A Declarative Language for Describing Partial World Knowledge to Reinforcement Learning Agents*. International Conference on Machine Learning (ICML). Honolulu, Hawaii, 2023. [[paper](https://arxiv.org/abs/2208.06448)] [[RLang.ai](http://rlang.ai)] [[RLang package](https://github.com/brownirl/rlang)] 
 
-- **R. Rodriguez-Sanchez**, G. Konidaris. *Learning Abstract World Models for Value-preserving Planning with Options*. Currently under submission 2023. **Accepted to [Generalization in Planning Workshop](https://aair-lab.github.io/genplan23/) & [LatinX Workshop](https://www.latinxinai.org/neurips-2023#:~:text=LatinX%20in%20AI%20Research%20at,Information%20Processing%20Systems%20(NeurIPS).) at NeurIPS 2023! See you in New Orleans!** [<a href="#" onclick="toggleExpand()">Abstract</a>][[Paper](/genplan2023.pdf)]
+- [A. Tirinzoni](https://andreatirinzoni.github.io)\*, **R. Rodriguez-Sanchez**\*, [M. Restelli](https://restelli.faculty.polimi.it/MyWebSite/index.shtml). *Transfer of Value Functions via Variational Methods*. Advances in Neural Information Processing Systems (NeurIPS), Montreal, Canada, 2018. [[paper](/tirinzoni2018transfer.pdf)][[poster](/nips2018_poster_transfer.pdf)][[code](https://github.com/AndreaTirinzoni/variational-transfer-rl)]
+
+## **Workshops**
+
+- **R. Rodriguez-Sanchez**, G. Konidaris. *Learning Abstract World Models for Value-preserving Planning with Options*. Generalization in Planning at NeurIPS 2023 **(Contributed Talk)** and LatinX in AI Workshop. New Orleans, LA.  
+[<a href="#" onclick="toggleExpand()">Abstract</a>][[Paper](/genplan2023.pdf)]
 
 <div class="expandable-content" id="expandable-content" style="display: none;">
     General-purpose agents require fine-grained controls and rich sensory inputs to perform a wide range of tasks. However, this complexity often leads to intractable decision-making. Traditionally, agents are provided with task-specific action  and observation spaces to mitigate this challenge, but this reduces autonomy. 
@@ -41,15 +48,7 @@ function toggleExpand() {
 }
 </script>
 
-## **Conferences**
-<img class="paper-picture" src="/rlang_logo.png">
-- **R. Rodriguez-Sanchez**\*, B. Spiegel\*, J. Wang, R. Patel, S. Tellex, G. Konidaris. *RLang: A Declarative Language for Describing Partial World Knowledge to Reinforcement Learning Agents*. International Conference on Machine Learning (ICML). Hawaii, 2023. [[paper](https://arxiv.org/abs/2208.06448)] [[RLang.ai](http://rlang.ai)] [[RLang package](https://github.com/brownirl/rlang)] 
-
-- [A. Tirinzoni](https://andreatirinzoni.github.io)\*, **R. Rodriguez-Sanchez**\*, [M. Restelli](https://restelli.faculty.polimi.it/MyWebSite/index.shtml). *Transfer of Value Functions via Variational Methods*. Advances in Neural Information Processing Systems (NeurIPS), Montreal, 2018. [[paper](/tirinzoni2018transfer.pdf)][[poster](/nips2018_poster_transfer.pdf)][[code](https://github.com/AndreaTirinzoni/variational-transfer-rl)]
-
-## **Workshops**
-
-- **R. Rodriguez-Sanchez**, B. Spiegel, J. Wang, R. Patel, S. Tellex, G. Konidaris. *RLang: A Declarative Language for Expressing Prior Knowledge for Reinforcement Learning*. Multidisciplinary Conference on Reinforcement Learning and Decision Making (RLDM) 2022. 
+- **R. Rodriguez-Sanchez**, B. Spiegel, J. Wang, R. Patel, S. Tellex, G. Konidaris. *RLang: A Declarative Language for Expressing Prior Knowledge for Reinforcement Learning*. Multidisciplinary Conference on Reinforcement Learning and Decision Making (RLDM) 2022. Providence, RI.
 [[Paper](/rlang_rldm2022.pdf)] [[Poster](/rlang_rldm_poster.pdf)]
 
 - **R. Rodriguez-Sanchez**\*, [R. Patel](http://cs.brown.edu/people/rpatel59/)\*, [G. Konidaris](http://cs.brown.edu/people/gdk/). *On the Relationship Between Structure in Natural Language and Models of Sequential Decision Processes*. Language and Reinforcement Learning ([LaReL](https://larel-ws.github.io/accepted-papers/)) Workshop at the International Conference in Machine Learning (ICML) 2020. 
