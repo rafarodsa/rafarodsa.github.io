@@ -63,6 +63,4 @@ function toggleExpand() {
 - **R. Rodriguez-Sanchez**\*, [R. Patel](http://cs.brown.edu/people/rpatel59/)\*, [G. Konidaris](http://cs.brown.edu/people/gdk/). *On the Relationship Between Structure in Natural Language and Models of Sequential Decision Processes*. Language and Reinforcement Learning ([LaReL](https://larel-ws.github.io/accepted-papers/)) Workshop at the International Conference in Machine Learning (ICML) 2020. 
 [[paper](/on_the_relationship_between_structure_in_natural_language_and_models_of_sequential_decision_processes.pdf)] [[video](https://www.youtube.com/watch?v=a3JJo_cvzpE&feature=emb_logo)]
 
-- [A. Bagaria](https://abagaria.github.io), [S. Kim](https://seungchan-kim.github.io), A. Mazzetto, **R. Rodriguez-Sanchez**. *Replication of a Unified Bellman Optimality Principle Combining Reward Maximization and Empowerment*. NeurIPS 2019 Replication Challenge. [[paper](https://openreview.net/pdf?id=B1grPT9GTH)]
-
 - [A. Tirinzoni](https://andreatirinzoni.github.io), **R. Rodriguez-Sanchez**, [M. Restelli](https://restelli.faculty.polimi.it/MyWebSite/index.shtml). *Transferring Value Functions via Variational Methods*. European Workshop on Reinforcement Learning (EWRL) 2018. Lille, France. **Oral**. [[EWRL 2018](https://ewrl.wordpress.com/past-ewrl/ewrl14-2018/)].
