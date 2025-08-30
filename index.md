@@ -59,7 +59,7 @@ Abstract Graph-based Models of the World*. 2nd Reinforcement Learning Conference
 
 
 - [A. Tirinzoni](https://andreatirinzoni.github.io)\*, **R. Rodriguez-Sanchez**\*, [M. Restelli](https://restelli.faculty.polimi.it/MyWebSite/index.shtml). *Transfer of Value Functions via Variational Methods*. Advances in Neural Information Processing Systems (NeurIPS), Montreal, Canada, 2018. 
-[<a href="#" onclick="toggleExpand('abstract4')">Abstract</a>] [[paper](https://proceedings.neurips.cc/paper_files/paper/2018/file/9023effe3c16b0477df9b93e26d57e2c-Paper.pdf)][[poster](/nips2018_poster_transfer.pdf)][[code](https://github.com/AndreaTirinzoni/variational-transfer-rl)]
+[<a href="#" onclick="toggleExpand('abstract4')">abstract</a>] [[paper](https://proceedings.neurips.cc/paper_files/paper/2018/file/9023effe3c16b0477df9b93e26d57e2c-Paper.pdf)][[poster](/nips2018_poster_transfer.pdf)][[code](https://github.com/AndreaTirinzoni/variational-transfer-rl)]
 <div class="expandable-content" id="abstract4" style="display: none;">
     We consider the problem of transferring value functions in reinforcement learning. We propose an approach that uses the given source tasks to learn a prior distribution over optimal value functions and provide an efficient variational approximation of the corresponding posterior in a new target task. We show our approach to be general, in the sense that it can be combined with complex parametric function approximators and distribution models, while providing two practical algorithms based on Gaussians and Gaussian mixtures. We theoretically analyze them by deriving a finite-sample analysis and provide a comprehensive empirical evaluation in four different domains.
 </div>
@@ -68,7 +68,7 @@ Abstract Graph-based Models of the World*. 2nd Reinforcement Learning Conference
 ## **Workshops**
 
 - **R. Rodriguez-Sanchez**, G. Konidaris. *Learning Abstract World Models for Value-preserving Planning with Options*. Generalization in Planning at NeurIPS 2023 **(Contributed Talk)** and LatinX in AI Workshop. New Orleans, LA.  
-[<a href="#" onclick="toggleExpand('abstract5')">Abstract</a>][[Paper](/genplan2023.pdf)]
+[<a href="#" onclick="toggleExpand('abstract5')">abstract</a>][[Paper](/genplan2023.pdf)]
 
 <div class="expandable-content" id="abstract5" style="display: none;">
     General-purpose agents require fine-grained controls and rich sensory inputs to perform a wide range of tasks. However, this complexity often leads to intractable decision-making. Traditionally, agents are provided with task-specific action  and observation spaces to mitigate this challenge, but this reduces autonomy. 
