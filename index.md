@@ -7,7 +7,7 @@ title: Rafael Rodriguez Sanchez
 
 <img class="profile-picture" src="profile.jpg">
 
-I am a fifth-year Ph.D. student in [Computer Science at Brown University](https://cs.brown.edu) in the [Intelligent Robot Lab](http://irl.cs.brown.edu) advised by [George Konidaris](http://cs.brown.edu/people/gdk/). Previously, I got a Bachelor's degree in Electronic Engineering from [Universidad Simon Bolivar](http://www.usb.ve), Caracas, Venezuela and a Master's degree in Computer Science from [Politecnico di Milano](https://polimi.it) where I was fortunate to work with [Marcello Restelli](https://restelli.faculty.polimi.it/MyWebSite/index.shtml) and [Nicola Gatti](https://gatti.faculty.polimi.it) at the [AIRLAB](http://airlab.deib.polimi.it). 
+I am a final year Ph.D. student in [Computer Science at Brown University](https://cs.brown.edu) in the [Intelligent Robot Lab](http://irl.cs.brown.edu) advised by [George Konidaris](http://cs.brown.edu/people/gdk/). Previously, I got a Bachelor's degree in Electronic Engineering from [Universidad Simon Bolivar](http://www.usb.ve), Caracas, Venezuela and a Master's degree in Computer Science from [Politecnico di Milano](https://polimi.it) where I was fortunate to work with [Marcello Restelli](https://restelli.faculty.polimi.it/MyWebSite/index.shtml) and [Nicola Gatti](https://gatti.faculty.polimi.it) at the [AIRLAB](http://airlab.deib.polimi.it). 
 
 Moreover, in Summer 2021, I interned at Amazon Alexa and worked in the Dialogue Research group with Maryam Fazel-Zarandi on applications of LLMs (Large Language Models) and RL in Task-oriented Dialog Systems.
 
@@ -25,6 +25,24 @@ Furthermore, I've also worked at the intersection of Natural Language and RL, in
 
 ## **Conferences**
 
+- A. Bagaria, A. De Mello Koch, **R. Rodriguez-Sanchez**, S. Lobel, G. Konidaris. *Intrinsically Motivated Discovery of Temporally
+Abstract Graph-based Models of the World*. 2nd Reinforcement Learning Conference (RLC), Edmonton, Alberta, 2025.
+[<a href="#" onclick="toggleExpand()">Abstract</a>]
+<div class="expandable-content" id="expandable-content" style="display: none;">
+    We seek to design reinforcement learning agents that build plannable models of the world
+    that are abstract in both state and time. We propose a new algorithm to construct a skill graph;
+    nodes in the skill graph represent abstract states and edges represent skill policies. Previous
+    works that learn a skill graph use random sampling from the state-space and nearest-neighbor
+    search—operations that are infeasible in environments with high-dimensional observations (for
+    example, images). Furthermore, previous algorithms attempt to increase the probability of all
+    edges (by repeatedly executing the corresponding skills) so that the resulting graph is robust
+    and reliable everywhere. However, exhaustive coverage is infeasible in large environments,
+    and agents should prioritize practicing skills that are more likely to result in higher reward. We
+    propose a method to build skill graphs that aids exploration, without assuming state-sampling,
+    distance metrics, or demanding exhaustive coverage.
+</div>
+[[paper](https://openreview.net/pdf?id=vjT2aL6Wlg)]
+
 - **R. Rodriguez-Sanchez**, G. Konidaris. *Learning Abstract World Models for Value-preserving Planning with Options*. 1st Reinforcement Learning Conference (RLC), Amherst, MA, 2024.  
 [<a href="#" onclick="toggleExpand()">Abstract</a>]
 <div class="expandable-content" id="expandable-content" style="display: none;">
@@ -32,11 +50,23 @@ Furthermore, I've also worked at the intersection of Natural Language and RL, in
     Instead, agents must be capable of building state-action spaces at the correct abstraction level from their sensorimotor experiences. We leverage the structure of a given set of temporally-extended actions to learn abstract Markov decision processes (MDPs) that operate at a higher level of temporal and state granularity. We characterize state abstractions necessary to ensure that planning with these skills, by simulating trajectories in the abstract MDP, results in policies with bounded value loss in the original MDP.
     We evaluate our approach in goal-based navigation environments that require continuous abstract states to plan successfully and show that abstract model learning improves the sample efficiency of planning and learning.
 </div>
+[[paper](https://openreview.net/pdf?id=h9IvopsMFS)] [[code] (https://github.com/rafarodsa/abs-mdp)]
 
 <img class="paper-picture" src="/rlang_logo.png">
-- **R. Rodriguez-Sanchez**\*, B. Spiegel\*, J. Wang, R. Patel, S. Tellex, G. Konidaris. *RLang: A Declarative Language for Describing Partial World Knowledge to Reinforcement Learning Agents*. International Conference on Machine Learning (ICML). Honolulu, Hawaii, 2023. [[paper](https://arxiv.org/abs/2208.06448)] [[RLang.ai](http://rlang.ai)] [[RLang package](https://github.com/brownirl/rlang)] 
+- **R. Rodriguez-Sanchez**\*, B. Spiegel\*, J. Wang, R. Patel, S. Tellex, G. Konidaris. *RLang: A Declarative Language for Describing Partial World Knowledge to Reinforcement Learning Agents*. International Conference on Machine Learning (ICML). Honolulu, Hawaii, 2023. 
+<div class="expandable-content" id="expandable-content" style="display: none;">
+    We introduce RLang, a domain-specific language (DSL) for communicating domain knowledge to an RL agent. Unlike existing RL DSLs that ground to single elements of a decision-making formalism (e.g., the reward function or policy), RLang can specify information about every element of a Markov decision process. We define precise syntax and grounding semantics for RLang, and provide a parser that grounds RLang programs to an algorithm-agnostic partial world model and policy that can be exploited by an RL agent. We provide a series of example RLang programs demonstrating how different RL methods can exploit the resulting knowledge, encompassing model-free and model-based tabular algorithms, policy gradient and value-based methods, hierarchical approaches, and deep methods.
+</div>
+[[paper](https://proceedings.mlr.press/v202/rodriguez-sanchez23a/rodriguez-sanchez23a.pdf)] [[RLang.ai](http://rlang.ai)] [[RLang package](https://github.com/brownirl/rlang)] 
 
-- [A. Tirinzoni](https://andreatirinzoni.github.io)\*, **R. Rodriguez-Sanchez**\*, [M. Restelli](https://restelli.faculty.polimi.it/MyWebSite/index.shtml). *Transfer of Value Functions via Variational Methods*. Advances in Neural Information Processing Systems (NeurIPS), Montreal, Canada, 2018. [[paper](/tirinzoni2018transfer.pdf)][[poster](/nips2018_poster_transfer.pdf)][[code](https://github.com/AndreaTirinzoni/variational-transfer-rl)]
+
+- [A. Tirinzoni](https://andreatirinzoni.github.io)\*, **R. Rodriguez-Sanchez**\*, [M. Restelli](https://restelli.faculty.polimi.it/MyWebSite/index.shtml). *Transfer of Value Functions via Variational Methods*. Advances in Neural Information Processing Systems (NeurIPS), Montreal, Canada, 2018. 
+<div class="expandable-content" id="expandable-content" style="display: none;">
+    We consider the problem of transferring value functions in reinforcement learning. We propose an approach that uses the given source tasks to learn a prior distribution over optimal value functions and provide an efficient variational approximation of the corresponding posterior in a new target task. We show our approach to be general, in the sense that it can be combined with complex parametric function approximators and distribution models, while providing two practical algorithms based on Gaussians and Gaussian mixtures. We theoretically analyze them by deriving a finite-sample analysis and provide a comprehensive empirical evaluation in four different domains.
+</div>
+[[paper](https://proceedings.neurips.cc/paper_files/paper/2018/file/9023effe3c16b0477df9b93e26d57e2c-Paper.pdf)][[poster](/nips2018_poster_transfer.pdf)][[code](https://github.com/AndreaTirinzoni/variational-transfer-rl)]
+
+
 
 ## **Workshops**
 
