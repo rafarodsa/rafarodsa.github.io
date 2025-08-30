@@ -40,8 +40,7 @@ Abstract Graph-based Models of the World*. 2nd Reinforcement Learning Conference
     and agents should prioritize practicing skills that are more likely to result in higher reward. We
     propose a method to build skill graphs that aids exploration, without assuming state-sampling,
     distance metrics, or demanding exhaustive coverage.
-</div>
-[[paper](https://openreview.net/pdf?id=vjT2aL6Wlg)]
+</div> [[paper](https://openreview.net/pdf?id=vjT2aL6Wlg)]
 
 - **R. Rodriguez-Sanchez**, G. Konidaris. *Learning Abstract World Models for Value-preserving Planning with Options*. 1st Reinforcement Learning Conference (RLC), Amherst, MA, 2024.  
 [<a href="#" onclick="toggleExpand()">Abstract</a>]
@@ -49,8 +48,7 @@ Abstract Graph-based Models of the World*. 2nd Reinforcement Learning Conference
     General-purpose agents require fine-grained controls and rich sensory inputs to perform a wide range of tasks. However, this complexity often leads to intractable decision-making. Traditionally, agents are provided with task-specific action  and observation spaces to mitigate this challenge, but this reduces autonomy. 
     Instead, agents must be capable of building state-action spaces at the correct abstraction level from their sensorimotor experiences. We leverage the structure of a given set of temporally-extended actions to learn abstract Markov decision processes (MDPs) that operate at a higher level of temporal and state granularity. We characterize state abstractions necessary to ensure that planning with these skills, by simulating trajectories in the abstract MDP, results in policies with bounded value loss in the original MDP.
     We evaluate our approach in goal-based navigation environments that require continuous abstract states to plan successfully and show that abstract model learning improves the sample efficiency of planning and learning.
-</div>
-[[paper](https://openreview.net/pdf?id=h9IvopsMFS)] [[code] (https://github.com/rafarodsa/abs-mdp)]
+</div> [[paper](https://openreview.net/pdf?id=h9IvopsMFS)] [[code](https://github.com/rafarodsa/abs-mdp)]
 
 <img class="paper-picture" src="/rlang_logo.png">
 - **R. Rodriguez-Sanchez**\*, B. Spiegel\*, J. Wang, R. Patel, S. Tellex, G. Konidaris. *RLang: A Declarative Language for Describing Partial World Knowledge to Reinforcement Learning Agents*. International Conference on Machine Learning (ICML). Honolulu, Hawaii, 2023. 
