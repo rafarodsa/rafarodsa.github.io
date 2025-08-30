@@ -27,7 +27,7 @@ Furthermore, I've also worked at the intersection of Natural Language and RL, in
 
 - A. Bagaria, A. De Mello Koch, **R. Rodriguez-Sanchez**, S. Lobel, G. Konidaris. *Intrinsically Motivated Discovery of Temporally
 Abstract Graph-based Models of the World*. 2nd Reinforcement Learning Conference (RLC), Edmonton, Alberta, 2025.
-[<a href="#" onclick="toggleExpand('abstract1')">Abstract</a>] [[paper](https://openreview.net/pdf?id=vjT2aL6Wlg)]
+[<a href="#" onclick="toggleExpand('abstract1')">abstract</a>] [[paper](https://openreview.net/pdf?id=vjT2aL6Wlg)]
 <div class="expandable-content" id="abstract1" style="display: none;">
     We seek to design reinforcement learning agents that build plannable models of the world
     that are abstract in both state and time. We propose a new algorithm to construct a skill graph;
@@ -43,7 +43,7 @@ Abstract Graph-based Models of the World*. 2nd Reinforcement Learning Conference
 </div> 
 
 - **R. Rodriguez-Sanchez**, G. Konidaris. *Learning Abstract World Models for Value-preserving Planning with Options*. 1st Reinforcement Learning Conference (RLC), Amherst, MA, 2024.  
-[<a href="#" onclick="toggleExpand('abstract2')">Abstract</a>] [[paper](https://openreview.net/pdf?id=h9IvopsMFS)] [[code](https://github.com/rafarodsa/abs-mdp)]
+[<a href="#" onclick="toggleExpand('abstract2')">abstract</a>] [[paper](https://openreview.net/pdf?id=h9IvopsMFS)] [[code](https://github.com/rafarodsa/abs-mdp)]
 <div class="expandable-content" id="abstract2" style="display: none;">
     General-purpose agents require fine-grained controls and rich sensory inputs to perform a wide range of tasks. However, this complexity often leads to intractable decision-making. Traditionally, agents are provided with task-specific action  and observation spaces to mitigate this challenge, but this reduces autonomy. 
     Instead, agents must be capable of building state-action spaces at the correct abstraction level from their sensorimotor experiences. We leverage the structure of a given set of temporally-extended actions to learn abstract Markov decision processes (MDPs) that operate at a higher level of temporal and state granularity. We characterize state abstractions necessary to ensure that planning with these skills, by simulating trajectories in the abstract MDP, results in policies with bounded value loss in the original MDP.
@@ -52,7 +52,7 @@ Abstract Graph-based Models of the World*. 2nd Reinforcement Learning Conference
 
 <img class="paper-picture" src="/rlang_logo.png">
 - **R. Rodriguez-Sanchez**\*, B. Spiegel\*, J. Wang, R. Patel, S. Tellex, G. Konidaris. *RLang: A Declarative Language for Describing Partial World Knowledge to Reinforcement Learning Agents*. International Conference on Machine Learning (ICML). Honolulu, Hawaii, 2023. 
-[<a href="#" onclick="toggleExpand('abstract3')">Abstract</a>] [[paper](https://proceedings.mlr.press/v202/rodriguez-sanchez23a/rodriguez-sanchez23a.pdf)] [[RLang.ai](http://rlang.ai)] [[RLang package](https://github.com/brownirl/rlang)] 
+[<a href="#" onclick="toggleExpand('abstract3')">abstract</a>] [[paper](https://proceedings.mlr.press/v202/rodriguez-sanchez23a/rodriguez-sanchez23a.pdf)] [[RLang.ai](http://rlang.ai)] [[RLang package](https://github.com/brownirl/rlang)] 
 <div class="expandable-content" id="abstract3" style="display: none;">
     We introduce RLang, a domain-specific language (DSL) for communicating domain knowledge to an RL agent. Unlike existing RL DSLs that ground to single elements of a decision-making formalism (e.g., the reward function or policy), RLang can specify information about every element of a Markov decision process. We define precise syntax and grounding semantics for RLang, and provide a parser that grounds RLang programs to an algorithm-agnostic partial world model and policy that can be exploited by an RL agent. We provide a series of example RLang programs demonstrating how different RL methods can exploit the resulting knowledge, encompassing model-free and model-based tabular algorithms, policy gradient and value-based methods, hierarchical approaches, and deep methods.
 </div> 
@@ -63,8 +63,6 @@ Abstract Graph-based Models of the World*. 2nd Reinforcement Learning Conference
 <div class="expandable-content" id="abstract4" style="display: none;">
     We consider the problem of transferring value functions in reinforcement learning. We propose an approach that uses the given source tasks to learn a prior distribution over optimal value functions and provide an efficient variational approximation of the corresponding posterior in a new target task. We show our approach to be general, in the sense that it can be combined with complex parametric function approximators and distribution models, while providing two practical algorithms based on Gaussians and Gaussian mixtures. We theoretically analyze them by deriving a finite-sample analysis and provide a comprehensive empirical evaluation in four different domains.
 </div>
-
-
 
 
 ## **Workshops**
@@ -87,7 +85,7 @@ function toggleExpand(elementId) {
 </script>
 
 - **R. Rodriguez-Sanchez**, B. Spiegel, J. Wang, R. Patel, S. Tellex, G. Konidaris. *RLang: A Declarative Language for Expressing Prior Knowledge for Reinforcement Learning*. Multidisciplinary Conference on Reinforcement Learning and Decision Making (RLDM) 2022. Providence, RI.
-[[Paper](/rlang_rldm2022.pdf)] [[Poster](/rlang_rldm_poster.pdf)]
+[[paper](/rlang_rldm2022.pdf)] [[poster](/rlang_rldm_poster.pdf)]
 
 - **R. Rodriguez-Sanchez**\*, [R. Patel](http://cs.brown.edu/people/rpatel59/)\*, [G. Konidaris](http://cs.brown.edu/people/gdk/). *On the Relationship Between Structure in Natural Language and Models of Sequential Decision Processes*. Language and Reinforcement Learning ([LaReL](https://larel-ws.github.io/accepted-papers/)) Workshop at the International Conference in Machine Learning (ICML) 2020. 
 [[paper](/on_the_relationship_between_structure_in_natural_language_and_models_of_sequential_decision_processes.pdf)] [[video](https://www.youtube.com/watch?v=a3JJo_cvzpE&feature=emb_logo)]
