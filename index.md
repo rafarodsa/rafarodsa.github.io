@@ -83,6 +83,12 @@ function toggleExpand(elementId) {
     content.style.display = (content.style.display === "none") ? "block" : "none";
 }
 </script>
+- ** R. Rodriguez-Sanchez**, C. Allen, G. Konidaris. *Disentangling Independently Controllable Factors in Reinforcement Learning*. New York Reinforcement Learning Workshop 2025. New York, NY.
+[<a href="#" onclick="toggleExpand('abstract6')">abstract</a>][[paper](/_nyrl_2025__factored_reps.pdf)]
+
+<div class="expandable-content" id="abstract6" style="display: none;">
+Leveraging the factored structure of the world leads to efficient algorithms for reinforcement learning that allows agents to abstract states, explore the world and discover skills. However, all these methods require access to a factored representation a priori. Typically, these representations are hand-specified and it remains an open problem how this representation can be learned directly from data. Therefore, applying these methods to problems with high-dimensional observations is not yet practical. In this work, we take a step toward factored representation in reinforcement learning. We introduce Action Controllable Factorization (ACF), a contrastive learning approach that focuses on disentangling *independently controllable* latent variables. These are variables the agent can affect directly without affecting others. The core idea of ACF is to leverage action sparsity: actions typically affect only a subset of variables, while the rest evolve under the environment's dynamics, yielding informative data for contrastive training. ACF recovers the ground‑truth controllable factors directly from pixel observations on three benchmarks with known factored structure---Taxi and MiniGrid‑DoorKey---consistently outperforming baseline disentanglement algorithms.
+</div> 
 
 - **R. Rodriguez-Sanchez**, B. Spiegel, J. Wang, R. Patel, S. Tellex, G. Konidaris. *RLang: A Declarative Language for Expressing Prior Knowledge for Reinforcement Learning*. Multidisciplinary Conference on Reinforcement Learning and Decision Making (RLDM) 2022. Providence, RI.
 [[paper](/rlang_rldm2022.pdf)] [[poster](/rlang_rldm_poster.pdf)]
