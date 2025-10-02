@@ -24,7 +24,7 @@ Furthermore, I've also worked at the intersection of Natural Language and RL, in
 # Publications
 
 ## **Preprints**
-- **R. Rodriguez-Sanchez**, C. Allen, G. Konidaris. *Learning Abstract World Models for Value-preserving Planning with Options*. Under review 2025.  
+- **R. Rodriguez-Sanchez**, C. Allen, G. Konidaris. *From Pixels to Factors: Learning Independently Controllable State Variables for Reinforcement Learning*. Under review 2025.  
 [<a href="#" onclick="toggleExpand('abstract_factor')">abstract</a>] [paper] [code]
 <div class="expandable-content" id="abstract_factor" style="display: none;">
 Algorithms that exploit factored Markov decision processes are far more sample-efficient than factor-agnostic methods, yet they assume a factored representation is known a priori---a requirement that breaks down when the agent sees only high-dimensional observations. Conversely, deep reinforcement learning handles such inputs but cannot benefit from factored structure. We address this representation problem with Action-Controllable Factorization (ACF), a contrastive learning approach that uncovers independently controllable latent variables---state components each action can influence separately. ACF leverages sparsity: actions typically affect only a subset of variables, while the rest evolve under the environment's dynamics, yielding informative data for contrastive training. ACF recovers the ground truth controllable factors directly from pixel observations on three benchmarks with known factored structure---Taxi, FourRooms, and MiniGrid-DoorKey---consistently outperforming baseline disentanglement algorithms.
