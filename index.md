@@ -8,14 +8,13 @@ title: Rafael Rodriguez Sanchez
 <img class="profile-picture" src="profile.jpg">
 
 I am a final year Ph.D. student in [Computer Science at Brown University](https://cs.brown.edu) in the [Intelligent Robot Lab](http://irl.cs.brown.edu) advised by [George Konidaris](http://cs.brown.edu/people/gdk/). Previously, I got a Bachelor's degree in Electronic Engineering from [Universidad Simon Bolivar](http://www.usb.ve), Caracas, Venezuela and a Master's degree in Computer Science from [Politecnico di Milano](https://polimi.it) where I was fortunate to work with [Marcello Restelli](https://restelli.faculty.polimi.it/MyWebSite/index.shtml) and [Nicola Gatti](https://gatti.faculty.polimi.it) at the [AIRLAB](http://airlab.deib.polimi.it). 
-
 During Summer 2021, I interned at Amazon Alexa and worked in the Dialogue Research group with [Maryam Fazel-Zarandi](https://www.maryamfazel.com) using LLMs (Large Language Models) for semantic parsing via SFT (supervised finetuning) and RL in task-oriented dialog systems.
 
 
 **Contact** rrs *at* brown *dot* edu --- **[Google Scholar](https://scholar.google.com/citations?user=ONxoqRUAAAAJ&hl=es)** --- **[LinkedIn](https://linkedin.com/in/rafarodsa)**
 --- **[Github](https://github.com/rafarodsa)**
 
-**Currently in the job market for Research Scientist positions**
+***Currently in the job market for Research Scientist positions***.
 
 # Research Interests
 
@@ -23,7 +22,7 @@ During Summer 2021, I interned at Amazon Alexa and worked in the Dialogue Resear
 
 Furthermore, I've also worked at the intersection of Natural Language and RL, investigating how to communicate prior knowledge to RL agents through languages. From this endeavor, RLang, a formal language for RL, was born. This language is unambiguous and designed precisely for RL. RLang allows to communicate partial task-specific knowledge to RL agents in order to avoid tabula rasa learning. The RLang framework, also, opens up many exciting research questions in RL algorithm design, natural language understanding and symbol grounding.  -->
 
-During my Ph.D. my research has spanned representation learning [[factoredreps](#preprint-acf),[absreps](#conf-absmdp)], reinforcement learning and hierarchical RL [[3](#conf-transfer),[skillgraphs](#conf-skillgraphs)] . 
+During my Ph.D. my research has spanned representation learning [[factoredreps](#preprint-acf),[absreps](#conf-absmdp)], reinforcement learning and hierarchical RL [[vitransfer](#conf-transfer),[skillgraphs](#conf-skillgraphs)] . 
 Specifically, I have focused on developing principled approaches to state representation learning that include abstraction [[absreps](#conf-absmdp)] and structure discovery[[[factoredreps](#preprint-acf)] directly from high-dimensional observations. 
 My research has leveraged advances in generative modeling, contrastive learning and energy-based modeling to implement practical algorithms to learn latent state representations. 
 
@@ -122,7 +121,7 @@ function toggleExpand(elementId) {
 
 ## **Preprints**
 <a id="preprint-acf"></a>
-[factoredreps] **R. Rodriguez-Sanchez**, C. Allen, G. Konidaris. *From Pixels to Factors: Learning Independently Controllable State Variables for Reinforcement Learning*. Under review 2025.  
+[[factoredreps](#preprint-acf)] **R. Rodriguez-Sanchez**, C. Allen, G. Konidaris. *From Pixels to Factors: Learning Independently Controllable State Variables for Reinforcement Learning*. Under review 2025.  
 [<a href="#" onclick="toggleExpand('abstract_factor')">abstract</a>] [[paper](http://arxiv.org/abs/2510.02484)]
 <div class="expandable-content" id="abstract_factor" style="display: none;">
 Algorithms that exploit factored Markov decision processes are far more sample-efficient than factor-agnostic methods, yet they assume a factored representation is known a priori---a requirement that breaks down when the agent sees only high-dimensional observations. Conversely, deep reinforcement learning handles such inputs but cannot benefit from factored structure. We address this representation problem with Action-Controllable Factorization (ACF), a contrastive learning approach that uncovers independently controllable latent variables---state components each action can influence separately. ACF leverages sparsity: actions typically affect only a subset of variables, while the rest evolve under the environment's dynamics, yielding informative data for contrastive training. ACF recovers the ground truth controllable factors directly from pixel observations on three benchmarks with known factored structure---Taxi, FourRooms, and MiniGrid-DoorKey---consistently outperforming baseline disentanglement algorithms.
@@ -130,7 +129,7 @@ Algorithms that exploit factored Markov decision processes are far more sample-e
 
 ## **Conferences**
 <a id="conf-skillgraphs"></a>
-[skillgraphs] A. Bagaria, A. De Mello Koch, **R. Rodriguez-Sanchez**, S. Lobel, G. Konidaris. *Intrinsically Motivated Discovery of Temporally
+[[skillgraphs](#conf-skillgraphs)] A. Bagaria, A. De Mello Koch, **R. Rodriguez-Sanchez**, S. Lobel, G. Konidaris. *Intrinsically Motivated Discovery of Temporally
 Abstract Graph-based Models of the World*. 2nd Reinforcement Learning Conference ***(RLC)***, Edmonton, Alberta, 2025.
 [<a href="#" onclick="toggleExpand('abstract1')">abstract</a>] [[paper](https://openreview.net/pdf?id=vjT2aL6Wlg)]
 <div class="expandable-content" id="abstract1" style="display: none;">
@@ -148,7 +147,7 @@ Abstract Graph-based Models of the World*. 2nd Reinforcement Learning Conference
 </div> 
 
 <a id="conf-absmdp"></a>
-[absreps] **R. Rodriguez-Sanchez**, G. Konidaris. *Learning Abstract World Models for Value-preserving Planning with Options*. 1st Reinforcement Learning Conference ***(RLC)***, Amherst, MA, 2024.  
+[[absreps](#conf-absmdp)]**R. Rodriguez-Sanchez**, G. Konidaris. *Learning Abstract World Models for Value-preserving Planning with Options*. 1st Reinforcement Learning Conference ***(RLC)***, Amherst, MA, 2024.  
 [<a href="#" onclick="toggleExpand('abstract2')">abstract</a>] [[paper](https://openreview.net/pdf?id=h9IvopsMFS)] [[code](https://github.com/rafarodsa/abs-mdp)]
 <div class="expandable-content" id="abstract2" style="display: none;">
     General-purpose agents require fine-grained controls and rich sensory inputs to perform a wide range of tasks. However, this complexity often leads to intractable decision-making. Traditionally, agents are provided with task-specific action  and observation spaces to mitigate this challenge, but this reduces autonomy. 
@@ -158,14 +157,14 @@ Abstract Graph-based Models of the World*. 2nd Reinforcement Learning Conference
 
 <img class="paper-picture" src="/rlang_logo.png">
 <a id="conf-rlang"></a>
-[rlang] **R. Rodriguez-Sanchez**\*, B. Spiegel\*, J. Wang, R. Patel, S. Tellex, G. Konidaris. *RLang: A Declarative Language for Describing Partial World Knowledge to Reinforcement Learning Agents*. International Conference on Machine Learning ***(ICML)***. Honolulu, Hawaii, 2023. 
+[[rlang](#conf-rlang)] **R. Rodriguez-Sanchez**\*, B. Spiegel\*, J. Wang, R. Patel, S. Tellex, G. Konidaris. *RLang: A Declarative Language for Describing Partial World Knowledge to Reinforcement Learning Agents*. International Conference on Machine Learning ***(ICML)***. Honolulu, Hawaii, 2023. 
 [<a href="#" onclick="toggleExpand('abstract3')">abstract</a>] [[paper](https://proceedings.mlr.press/v202/rodriguez-sanchez23a/rodriguez-sanchez23a.pdf)] [[RLang.ai](http://rlang.ai)] [[RLang package](https://github.com/brownirl/rlang)] 
 <div class="expandable-content" id="abstract3" style="display: none;">
     We introduce RLang, a domain-specific language (DSL) for communicating domain knowledge to an RL agent. Unlike existing RL DSLs that ground to single elements of a decision-making formalism (e.g., the reward function or policy), RLang can specify information about every element of a Markov decision process. We define precise syntax and grounding semantics for RLang, and provide a parser that grounds RLang programs to an algorithm-agnostic partial world model and policy that can be exploited by an RL agent. We provide a series of example RLang programs demonstrating how different RL methods can exploit the resulting knowledge, encompassing model-free and model-based tabular algorithms, policy gradient and value-based methods, hierarchical approaches, and deep methods.
 </div> 
 
 <a id="conf-transfer"></a>
-[vitransfer] **R. Rodriguez-Sanchez**\*, [A. Tirinzoni](https://andreatirinzoni.github.io)\*, [M. Restelli](https://restelli.faculty.polimi.it/MyWebSite/index.shtml). *Transfer of Value Functions via Variational Methods*. Advances in Neural Information Processing Systems ***(NeurIPS)***, Montreal, Canada, 2018. 
+[[vitransfer](#conf-transfer)] **R. Rodriguez-Sanchez**\*, [A. Tirinzoni](https://andreatirinzoni.github.io)\*, [M. Restelli](https://restelli.faculty.polimi.it/MyWebSite/index.shtml). *Transfer of Value Functions via Variational Methods*. Advances in Neural Information Processing Systems ***(NeurIPS)***, Montreal, Canada, 2018. 
 [<a href="#" onclick="toggleExpand('abstract4')">abstract</a>] [[paper](https://proceedings.neurips.cc/paper_files/paper/2018/file/9023effe3c16b0477df9b93e26d57e2c-Paper.pdf)][[poster](/nips2018_poster_transfer.pdf)][[code](https://github.com/AndreaTirinzoni/variational-transfer-rl)]
 <div class="expandable-content" id="abstract4" style="display: none;">
     We consider the problem of transferring value functions in reinforcement learning. We propose an approach that uses the given source tasks to learn a prior distribution over optimal value functions and provide an efficient variational approximation of the corresponding posterior in a new target task. We show our approach to be general, in the sense that it can be combined with complex parametric function approximators and distribution models, while providing two practical algorithms based on Gaussians and Gaussian mixtures. We theoretically analyze them by deriving a finite-sample analysis and provide a comprehensive empirical evaluation in four different domains.
