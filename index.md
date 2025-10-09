@@ -21,13 +21,22 @@ During Summer 2021, I interned at Amazon Alexa and worked in the Dialogue Resear
 <!-- I am deeply interested in enabling decision-making agents to learn reusable knowledge. To that end, currently, I'm working on learning state abstractions for Reinforcement Learning and, more generally, MDPs, that allow agents to learn provably sound, abstract and simpler world models that the agent can use to generate plans for different tasks.
 
 Furthermore, I've also worked at the intersection of Natural Language and RL, investigating how to communicate prior knowledge to RL agents through languages. From this endeavor, RLang, a formal language for RL, was born. This language is unambiguous and designed precisely for RL. RLang allows to communicate partial task-specific knowledge to RL agents in order to avoid tabula rasa learning. The RLang framework, also, opens up many exciting research questions in RL algorithm design, natural language understanding and symbol grounding.  -->
-
-During my Ph.D. my research has spanned representation learning [[factoredreps](#preprint-acf), [absreps](#conf-absmdp)], reinforcement learning and hierarchical RL [[vitransfer](#conf-transfer),[skillgraphs](#conf-skillgraphs)] . 
+<!-- 
+During my Ph.D. my research has spanned representation learning [[factoredreps](#preprint-acf), [absreps](#conf-absmdp)], reinforcement learning and hierarchical RL [[vitransfer](#conf-transfer), [skillgraphs](#conf-skillgraphs)] . 
 Specifically, I have focused on developing principled approaches to state representation learning that include abstraction [[absreps](#conf-absmdp)] and structure discovery [[factoredreps](#preprint-acf)] directly from high-dimensional observations. 
 My research has leveraged advances in generative modeling, contrastive learning and energy-based modeling to implement practical algorithms to learn latent state representations. 
 
 I've also worked at the intersection of Natural Language and RL [[rlang](#conf-rlang)], investigating how to communicate prior knowledge to RL agents through languages. From this endeavor, RLang, a formal language for RL, was born. This language is unambiguous and designed precisely for RL. RLang allows to communicate partial task-specific knowledge to RL agents in order to avoid tabula rasa learning. The RLang framework has inspired further research in natural language understanding and symbol grounding from an RL perspective [[nl2rlang](https://benjaminaspiegel.com/files/NL2RLang_RLC_2023_TAFM.pdf)].
-While interning at Amazon Alexa, I gained hands-on experience in using LLMs for semantic parsing in task-oriented dialogs by finetuning via SFT and RL.
+While interning at Amazon Alexa, I gained hands-on experience in using LLMs for semantic parsing in task-oriented dialogs by finetuning via SFT and RL. -->
+
+During my Ph.D., my research has focused on representation learning and reinforcement learning (RL), with an emphasis on developing principled approaches to state representation learning that include *abstraction* [[absreps](#conf-absmdp)] and *structure discovery* [[factoredreps](#preprint-acf)] directly from high-dimensional observations. I have leveraged advances in generative modeling, contrastive learning, and energy-based modeling to implement practical algorithms for learning latent state representations.
+
+My work also explores the intersection of natural language and RL [[rlang](#conf-rlang)], investigating how to communicate prior knowledge to RL agents through language. This effort led to the development of RLang, a formal language for RL that allows the communication of partial, task-specific knowledge to agents—enabling them to learn more efficiently than in tabula rasa settings. The RLang framework has inspired further research in natural language understanding and symbol grounding from an RL perspective [[nl2rlang](https://benjaminaspiegel.com/files/NL2RLang_RLC_2023_TAFM.pdf)].
+
+During my internship at Amazon Alexa, I gained hands-on experience applying large language models (LLMs) for semantic parsing in task-oriented dialogue systems, fine-tuning models via supervised learning (SFT) and reinforcement learning (RL).
+
+Broadly, my goal is to design algorithms that bridge structured reasoning and representation learning, advancing the ability of intelligent systems to learn from and communicate with humans.
+
 
 <!-- # Publications
 
