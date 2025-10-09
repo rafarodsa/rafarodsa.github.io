@@ -35,9 +35,6 @@ My work also explores the intersection of natural language and RL [[rlang](#conf
 
 During my internship at Amazon Alexa, I gained hands-on experience applying large language models (LLMs) for semantic parsing in task-oriented dialogue systems, fine-tuning models via supervised learning (SFT) and reinforcement learning (RL).
 
-Broadly, my goal is to design algorithms that bridge structured reasoning and representation learning, advancing the ability of intelligent systems to learn from and communicate with humans.
-
-
 <!-- # Publications
 
 ## **Preprints**
