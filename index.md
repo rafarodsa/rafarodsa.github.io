@@ -181,7 +181,7 @@ Abstract Graph-based Models of the World*. 2nd Reinforcement Learning Conference
 </div> 
 
 <a id="ws-genplan"></a>
-- **R. Rodriguez-Sanchez**, G. Konidaris. *Learning Abstract World Models for Value-preserving Planning with Options*. Generalization in Planning at NeurIPS 2023 **(Contributed Talk)** and LatinX in AI Workshop. New Orleans, LA.  
+- **R. Rodriguez-Sanchez**, G. Konidaris. *Learning Abstract World Models for Value-preserving Planning with Options*. Generalization in Planning at NeurIPS 2023 ***(Contributed Talk)*** and LatinX in AI Workshop. New Orleans, LA.  
 [<a href="#" onclick="toggleExpand('abstract5')">abstract</a>][[Paper](/genplan2023.pdf)]
 
 <div class="expandable-content" id="abstract5" style="display: none;">
@@ -204,4 +204,4 @@ function toggleExpand(elementId) {
 - **R. Rodriguez-Sanchez**\*, [R. Patel](http://cs.brown.edu/people/rpatel59/)\*, [G. Konidaris](http://cs.brown.edu/people/gdk/). *On the Relationship Between Structure in Natural Language and Models of Sequential Decision Processes*. Language and Reinforcement Learning ([LaReL](https://larel-ws.github.io/accepted-papers/)) Workshop at the International Conference in Machine Learning (ICML) 2020. 
 [[paper](/on_the_relationship_between_structure_in_natural_language_and_models_of_sequential_decision_processes.pdf)] [[video](https://www.youtube.com/watch?v=a3JJo_cvzpE&feature=emb_logo)]
 
-- [A. Tirinzoni](https://andreatirinzoni.github.io), **R. Rodriguez-Sanchez**, [M. Restelli](https://restelli.faculty.polimi.it/MyWebSite/index.shtml). *Transferring Value Functions via Variational Methods*. European Workshop on Reinforcement Learning (EWRL) 2018. Lille, France. **Oral**. [[EWRL 2018](https://ewrl.wordpress.com/past-ewrl/ewrl14-2018/)].
+- [A. Tirinzoni](https://andreatirinzoni.github.io), **R. Rodriguez-Sanchez**, [M. Restelli](https://restelli.faculty.polimi.it/MyWebSite/index.shtml). *Transferring Value Functions via Variational Methods*. European Workshop on Reinforcement Learning ***(EWRL) 2018***. Lille, France. ***Oral***. [[EWRL 2018](https://ewrl.wordpress.com/past-ewrl/ewrl14-2018/)].
