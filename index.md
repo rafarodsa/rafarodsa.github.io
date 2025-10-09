@@ -145,7 +145,7 @@ Abstract Graph-based Models of the World*. 2nd Reinforcement Learning Conference
 </div> 
 
 <a id="conf-absmdp"></a>
-[[absreps](#conf-absmdp)]**R. Rodriguez-Sanchez**, G. Konidaris. *Learning Abstract World Models for Value-preserving Planning with Options*. 1st Reinforcement Learning Conference ***(RLC)***, Amherst, MA, 2024.  
+[[absreps](#conf-absmdp)] **R. Rodriguez-Sanchez**, G. Konidaris. *Learning Abstract World Models for Value-preserving Planning with Options*. 1st Reinforcement Learning Conference ***(RLC)***, Amherst, MA, 2024.  
 [<a href="#" onclick="toggleExpand('abstract2')">abstract</a>] [[paper](https://openreview.net/pdf?id=h9IvopsMFS)] [[code](https://github.com/rafarodsa/abs-mdp)]
 <div class="expandable-content" id="abstract2" style="display: none;">
     General-purpose agents require fine-grained controls and rich sensory inputs to perform a wide range of tasks. However, this complexity often leads to intractable decision-making. Traditionally, agents are provided with task-specific action  and observation spaces to mitigate this challenge, but this reduces autonomy. 
