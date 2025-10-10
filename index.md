@@ -121,6 +121,10 @@ function toggleExpand(elementId) {
 - [A. Tirinzoni](https://andreatirinzoni.github.io), **R. Rodriguez-Sanchez**, [M. Restelli](https://restelli.faculty.polimi.it/MyWebSite/index.shtml). *Transferring Value Functions via Variational Methods*. European Workshop on Reinforcement Learning (EWRL) 2018. Lille, France. **Oral**. [[EWRL 2018](https://ewrl.wordpress.com/past-ewrl/ewrl14-2018/)]. -->
 
 
+# For the community
+
+- Single-ish file implementation of DreamerV3 in JAX [inspired by [Purejaxrl](https://github.com/luchris429/purejaxrl)]. [[repo](https://github.com/rafarodsa/dreamer-v3-purejax)].
+
 # Publications
 
 ## **Preprints**
