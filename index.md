@@ -123,8 +123,8 @@ function toggleExpand(elementId) {
 
 # For the community
 
-- Single-ish file implementation of DreamerV3 in JAX [inspired by [Purejaxrl](https://github.com/luchris429/purejaxrl)]. 
-[[repo](https://github.com/rafarodsa/dreamer-v3-purejax)].
+- Single-*ish* file implementation of DreamerV3 in JAX (inspired by [purejaxrl](https://github.com/luchris429/purejaxrl)). 
+[[repo](https://github.com/rafarodsa/dreamer-v3-purejax)]
 
 # Publications
 
