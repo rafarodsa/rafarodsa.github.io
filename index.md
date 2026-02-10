@@ -7,7 +7,7 @@ title: Rafael Rodriguez Sanchez
 
 <img class="profile-picture" src="profile.jpg">
 
-I am a final year Ph.D. student in [Computer Science at Brown University](https://cs.brown.edu) in the [Intelligent Robot Lab](http://irl.cs.brown.edu) advised by [George Konidaris](http://cs.brown.edu/people/gdk/). Previously, I got a Bachelor's degree in Electronic Engineering from Universidad Simon Bolivar, Caracas, Venezuela and a Master's degree in Computer Science from [Politecnico di Milano](https://polimi.it) where I was fortunate to work with [Marcello Restelli](https://restelli.faculty.polimi.it/MyWebSite/index.shtml) and [Nicola Gatti](https://gatti.faculty.polimi.it) at the AIRLAB.
+I am a final year Ph.D. student in [Computer Science at Brown University](https://cs.brown.edu) (*expected graduation May 2026*) in the [Intelligent Robot Lab](http://irl.cs.brown.edu) advised by [George Konidaris](http://cs.brown.edu/people/gdk/). Previously, I got a Bachelor's degree in Electronic Engineering from Universidad Simon Bolivar, Caracas, Venezuela and a Master's degree in Computer Science from [Politecnico di Milano](https://polimi.it) where I was fortunate to work with [Marcello Restelli](https://restelli.faculty.polimi.it/MyWebSite/index.shtml) and [Nicola Gatti](https://gatti.faculty.polimi.it) at the AIRLAB.
 During Summer 2021, I interned at Amazon Alexa and worked in the Dialogue Research group with [Maryam Fazel-Zarandi](https://www.maryamfazel.com) using LLMs (Large Language Models) for semantic parsing via SFT (supervised finetuning) and RL in task-oriented dialog systems.
 
 
@@ -33,7 +33,7 @@ During my Ph.D., my research has focused on representation learning and reinforc
 
 My work also explores the intersection of natural language and RL [[rlang](#conf-rlang)], investigating how to communicate prior knowledge to RL agents through language. This effort led to the development of RLang, a formal language for RL that allows the communication of partial, task-specific knowledge to agents—enabling them to learn more efficiently than in tabula rasa settings. The RLang framework has inspired further research in natural language understanding and symbol grounding from an RL perspective [[nl2rlang](https://benjaminaspiegel.com/files/NL2RLang_RLC_2023_TAFM.pdf)].
 
-During my internship at Amazon Alexa, I gained hands-on experience applying large language models (LLMs) for semantic parsing in task-oriented dialogue systems, fine-tuning models via supervised learning (SFT) and reinforcement learning (RL).
+During my internship at Amazon Alexa, I gained hands-on experience applying large language models (LLMs) for semantic parsing in task-oriented dialogue systems, fine-tuning models via supervised learning (SFT) and reinforcement learning (RL). The results of thei
 
 <!-- # Publications
 
