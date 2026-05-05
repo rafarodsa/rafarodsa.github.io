@@ -6,15 +6,14 @@ title: Rafael Rodriguez Sanchez
 # About Me
 
 <img class="profile-picture" src="profile.jpg">
-
-I am a final year Ph.D. student in [Computer Science at Brown University](https://cs.brown.edu) (*expected graduation May 2026*) in the [Intelligent Robot Lab](http://irl.cs.brown.edu) advised by [George Konidaris](http://cs.brown.edu/people/gdk/). Previously, I got a Bachelor's degree in Electronic Engineering from Universidad Simon Bolivar, Caracas, Venezuela and a Master's degree in Computer Science from [Politecnico di Milano](https://polimi.it) where I was fortunate to work with [Marcello Restelli](https://restelli.faculty.polimi.it/MyWebSite/index.shtml) and [Nicola Gatti](https://gatti.faculty.polimi.it) at the AIRLAB.
+I recently defended my PhD in Computer Science at Brown University (April 2026) in the [Intelligent Robot Lab](http://irl.cs.brown.edu) advised by [George Konidaris](http://cs.brown.edu/people/gdk/). My dissertation, *Action-driven Learning of Structured Representations for Sequential Decision Making*, develops the thesis that *acting* agents can recover causal structure of the world that passive observation cannot. Previously, I got a Bachelor's degree in Electronic Engineering from Universidad Simon Bolivar, Caracas, Venezuela and a Master's degree in Computer Science from [Politecnico di Milano](https://polimi.it) where I was fortunate to work with [Marcello Restelli](https://restelli.faculty.polimi.it/MyWebSite/index.shtml) and [Nicola Gatti](https://gatti.faculty.polimi.it) at the AIRLAB.
 During Summer 2021, I interned at Amazon Alexa and worked in the Dialogue Research group with [Maryam Fazel-Zarandi](https://www.maryamfazel.com) using LLMs (Large Language Models) for semantic parsing via SFT (supervised finetuning) and RL in task-oriented dialog systems.
 
 
 **Contact** rrs *at* brown *dot* edu --- **[Google Scholar](https://scholar.google.com/citations?user=ONxoqRUAAAAJ&hl=es)** --- **[LinkedIn](https://linkedin.com/in/rafarodsa)**
 --- **[Github](https://github.com/rafarodsa)**
 
-***Currently in the job market for Research Scientist positions***.
+***Currently on the job market for Research Scientist and Postdoc positions.*** Available in July 2026. Open to opportunities in the US and abroad. The best way to reach me is by email: rrs *at* brown *dot* edu.
 
 # Research Interests
 
@@ -33,7 +32,7 @@ During my Ph.D., my research has focused on representation learning and reinforc
 
 My work also explores the intersection of natural language and RL [[rlang](#conf-rlang)], investigating how to communicate prior knowledge to RL agents through language. This effort led to the development of RLang, a formal language for RL that allows the communication of partial, task-specific knowledge to agents—enabling them to learn more efficiently than in tabula rasa settings. The RLang framework has inspired further research in natural language understanding and symbol grounding from an RL perspective [[nl2rlang](https://benjaminaspiegel.com/files/NL2RLang_RLC_2023_TAFM.pdf)].
 
-During my internship at Amazon Alexa, I gained hands-on experience applying large language models (LLMs) for semantic parsing in task-oriented dialogue systems, fine-tuning models via supervised learning (SFT) and reinforcement learning (RL). The results of thei
+During my internship at Amazon Alexa, I gained hands-on experience applying large language models (LLMs) for semantic parsing in task-oriented dialogue systems, fine-tuning models via supervised learning (SFT) and reinforcement learning (RL). 
 
 <!-- # Publications
 
