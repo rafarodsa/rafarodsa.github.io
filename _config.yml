@@ -1,13 +1,12 @@
 title: Rafael Rodriguez Sanchez
 url: "https://rafarodsa.github.io"
 baseurl: "/"
-desc: Ph.D. Student in CS at Brown University 
+desc: "Ph.D. in Computer Science, Brown University. Reinforcement learning, world models, and structure discovery for sequential decision making." 
 author: Rafael Rodriguez Sanchez
 
 markdown: kramdown
 #ins_logo: "./bits-logo.png"
 
-tracking_id: UA-175296791-1
 
 footer: yes
 footer_url: "https://github.com/rafarodsa"
