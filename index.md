@@ -6,14 +6,13 @@ title: Rafael Rodriguez Sanchez
 # About Me
 
 <img class="profile-picture" src="profile.jpg">
-I recently defended my PhD in Computer Science at Brown University (April 2026) in the [Intelligent Robot Lab](http://irl.cs.brown.edu) advised by [George Konidaris](http://cs.brown.edu/people/gdk/). My dissertation, *Action-driven Learning of Structured Representations for Sequential Decision Making*, develops the thesis that *acting* agents can recover causal structure of the world that passive observation cannot. Previously, I got a Bachelor's degree in Electronic Engineering from Universidad Simon Bolivar, Caracas, Venezuela and a Master's degree in Computer Science from [Politecnico di Milano](https://polimi.it) where I was fortunate to work with [Marcello Restelli](https://restelli.faculty.polimi.it/MyWebSite/index.shtml) and [Nicola Gatti](https://gatti.faculty.polimi.it) at the AIRLAB.
+I recently defended my PhD in Computer Science at Brown University (April 2026) in the [Intelligent Robot Lab](http://irl.cs.brown.edu) advised by [George Konidaris](http://cs.brown.edu/people/gdk/) and I will be joining the Neuro AGI team at the Astera Research Institute this Fall 2026. My dissertation, *Action-driven Learning of Structured Representations for Sequential Decision Making*, develops the thesis that *acting* agents can recover causal structure of the world that passive observation cannot. Previously, I got a Bachelor's degree in Electronic Engineering from Universidad Simon Bolivar, Caracas, Venezuela and a Master's degree in Computer Science from [Politecnico di Milano](https://polimi.it) where I was fortunate to work with [Marcello Restelli](https://restelli.faculty.polimi.it/MyWebSite/index.shtml) and [Nicola Gatti](https://gatti.faculty.polimi.it) at the AIRLAB.
 During Summer 2021, I interned at Amazon Alexa and worked in the Dialogue Research group with [Maryam Fazel-Zarandi](https://www.maryamfazel.com) using LLMs (Large Language Models) for semantic parsing via SFT (supervised finetuning) and RL in task-oriented dialog systems.
 
 
 **Contact** rrs *at* brown *dot* edu --- **[Google Scholar](https://scholar.google.com/citations?user=ONxoqRUAAAAJ&hl=es)** --- **[LinkedIn](https://linkedin.com/in/rafarodsa)**
 --- **[Github](https://github.com/rafarodsa)**
 
-***Currently on the job market for Research Scientist and Postdoc positions.*** Available in July 2026. Open to opportunities in the US and abroad. The best way to reach me is by email: rrs *at* brown *dot* edu.
 
 # Research Interests
 
