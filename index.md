@@ -128,15 +128,16 @@ function toggleExpand(elementId) {
 
 # Publications
 
-## **Preprints**
+
+## **Conferences**
+
 <a id="preprint-acf"></a>
-[[factoredreps](#preprint-acf)] **R. Rodriguez-Sanchez**, C. Allen, G. Konidaris. *From Pixels to Factors: Learning Independently Controllable State Variables for Reinforcement Learning*. **Accepted to RLC2026**
-[<a href="#" onclick="toggleExpand('abstract_factor')">abstract</a>] [[paper](http://arxiv.org/abs/2510.02484)]
+[[factoredreps](#preprint-acf)] **R. Rodriguez-Sanchez**, C. Allen, G. Konidaris. *From Pixels to Factors: Learning Independently Controllable State Variables for Reinforcement Learning*. 3rd Reinforcement Learning Conference (RLC), Montreal, Quebec, 2026
+[<a href="#" onclick="toggleExpand('abstract_factor')">abstract</a>] [[paper](/rlc_acf.pdf)]
 <div class="expandable-content" id="abstract_factor" style="display: none;">
 Algorithms that exploit factored Markov decision processes are far more sample-efficient than factor-agnostic methods, yet they assume a factored representation is known a priori---a requirement that breaks down when the agent sees only high-dimensional observations. Conversely, deep reinforcement learning handles such inputs but cannot benefit from factored structure. We address this representation problem with Action-Controllable Factorization (ACF), a contrastive learning approach that uncovers independently controllable latent variables---state components each action can influence separately. ACF leverages sparsity: actions typically affect only a subset of variables, while the rest evolve under the environment's dynamics, yielding informative data for contrastive training. ACF recovers the ground truth controllable factors directly from pixel observations on three benchmarks with known factored structure---Taxi, FourRooms, and MiniGrid-DoorKey---consistently outperforming baseline disentanglement algorithms.
 </div> 
 
-## **Conferences**
 <a id="conf-skillgraphs"></a>
 [[skillgraphs](#conf-skillgraphs)] A. Bagaria, A. De Mello Koch, **R. Rodriguez-Sanchez**, S. Lobel, G. Konidaris. *Intrinsically Motivated Discovery of Temporally
 Abstract Graph-based Models of the World*. 2nd Reinforcement Learning Conference ***(RLC)***, Edmonton, Alberta, 2025.
